@@ -62,7 +62,7 @@ This will run the automated build process, start up a webserver, and open the ap
 |eventsource-polyfill|Polyfill to support hot reloading in IE|
 |expect|Assertion library for use with Mocha|
 |express|Serves development and production builds|
-|extract-text-webpack-plugin| Extracts CSS into separate file for production build | 
+|extract-text-webpack-plugin| Extracts CSS into separate file for production build |
 |file-loader| Adds file loading support to Webpack |
 |jsdom|In-memory DOM for testing|
 |mocha| JavaScript testing library |
